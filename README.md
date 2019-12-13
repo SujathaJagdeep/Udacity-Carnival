@@ -6,7 +6,7 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 
 
 ### Versions Used
-- [Unity LTS Release 2017.4.19](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
+- [Unity LTS Release 2018.4.0](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
 - [GVR SDK for Unity v1.170.0](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.170.0)
 - [TextMesh Pro](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126) v1.2.2
 
@@ -32,11 +32,12 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - I have customized Wheel of Fortune such that the point value text displayed on each wedge fits within the edges of the wedge.
 - I have customized Plinko Oscillation Distance on the Carnival Plinko component accurately.
 - I have positioned the Teddy Bear appropriately such that it does not fall on the player when it drops down as a reward.
-- I have provided screenshots of Unity app running both on my Android Phone and Gaming Laptop to reflect the optional changes that have been made to my Carnival app during development such as 'Adding balloons behind the tent to make the carnival feel more lively', 'Adding a timer to make the game loop more exciting and competitive' and 'Adding a start scene before entering the carnival', as these time consuming and amazing changes do not show up on my Android Phone for some reason.
+- I have provided screenshots of Unity app running both on my Android Phone and Gaming Laptop to reflect the optional changes that have been made to my Carnival app during development such as 'Adding balloons behind the tent to make the carnival feel more lively' and 'Adding a timer to make the game loop more exciting and competitive'.
+
 
 ### My Conclusion
 - I really enjoyed developing my 'Carnival App' with all the optional changes and learned a lot during the process. 
-- I am proud of my Final Project Output.
+
 
 ### References
 1. Brackeys. (2018, May 20). How to Fade Between Scenes in Unity. Retrieved February 10, 2019, from https://www.youtube.com/watch?v=Oadq-IrOazg
@@ -44,7 +45,5 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 3. MrBuFF. (2015, September 19). Unity 5 How to Make a Start Menu (For your Game). Retrieved February 10, 2019, from https://www.youtube.com/watch?v=vfi4ZYHR-MU&index=28&list=PLCteXJyIZTSBxXvXqrKtAmyASYujtKx4I&t=0s
 4. Tutorials, A. (2017, February 14). Unity 5 C# Particle System for valentine's day with heart balloons. Retrieved February 11, 2019, from https://www.youtube.com/watch?v=QLvE3E040-8&index=71&list=PLCteXJyIZTSBxXvXqrKtAmyASYujtKx4I&t=0s
 
-Kind Regards,
-Sujatha.
 
 >**Note:** If for any reason you remove and re-import GVR SDK for Unity v1.170.0, make sure you accept any API update pop-up prompts triggered by Unity. Alternatively, you can manually run the API updater (Unity menu `Assets` > `Run API Updater...`) after the import has completed.
